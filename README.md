@@ -13,8 +13,9 @@ This repository contains the source code for a C-Minus compiler. The compiler co
 
 # Usage
 To compile the C-Minus compiler, navigate to the project directory and run the following command:
+```
 make
-
+```
 This will compile all the source files and generate an executable named lab9.
 To use the compiler, run the following command:
 ```
