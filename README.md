@@ -17,7 +17,9 @@ make
 
 This will compile all the source files and generate an executable named lab9.
 To use the compiler, run the following command:
+```
 ./lab9 <input-file>
+```
 Replace <input-file> with the path to the C-Minus source code file you wish to compile. The compiler will perform lexical analysis, syntax analysis, semantic analysis, and generate the corresponding MIPS assembly code as intermediate representation.
 
 # Test Code
